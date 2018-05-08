@@ -1,8 +1,8 @@
 package com.openpayments.platform.client;
 
-import jsonhandler.Aspsps;
-import jsonhandler.Cities;
-import jsonhandler.Countries;
+import com.openpayments.platform.models.Aspsps;
+import com.openpayments.platform.models.Cities;
+import com.openpayments.platform.models.Countries;
 
 import java.io.IOException;
 

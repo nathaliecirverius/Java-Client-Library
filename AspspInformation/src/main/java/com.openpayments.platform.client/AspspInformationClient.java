@@ -14,10 +14,10 @@ import com.google.api.client.http.javanet.NetHttpTransport;
 import com.google.api.client.json.JsonObjectParser;
 import com.google.api.client.json.jackson2.JacksonFactory;
 import com.google.common.collect.ImmutableList;
+import com.openpayments.platform.models.Aspsps;
+import com.openpayments.platform.models.Cities;
+import com.openpayments.platform.models.Countries;
 
-import jsonhandler.Aspsps;
-import jsonhandler.Cities;
-import jsonhandler.Countries;
 
 import java.io.IOException;
 import java.io.InputStream;
