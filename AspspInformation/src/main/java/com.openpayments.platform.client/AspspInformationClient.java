@@ -18,7 +18,6 @@ import com.openpayments.platform.models.Aspsps;
 import com.openpayments.platform.models.Cities;
 import com.openpayments.platform.models.Countries;
 
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashMap;
